@@ -6,7 +6,104 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72ae97ec-b7e5-494e-9982-becdf80a7233" name="Default Changelist" comment="" />
+    <list default="true" id="72ae97ec-b7e5-494e-9982-becdf80a7233" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashlight_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/jni/Android.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/jni/Application.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/jni/helper.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/libs/arm64-v8a/libhelper.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/libs/armeabi-v7a/libhelper.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/libs/armeabi/libhelper.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/libs/mips/libhelper.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/libs/mips64/libhelper.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/libs/x86/libhelper.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/libs/x86_64/libhelper.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/res/drawable-xhdpi/ic_close_xxxads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/res/drawable-xhdpi/ic_null_stubload_xxxads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/res/drawable/ic_null_stubload_xxxads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/res/layout/activity_ads.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/res/layout/ads_baner_view_xxxads.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/res/layout/window_overlay_xxxads.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/res/values/id_code.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/Constant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/act/BaseVMActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/act/BaseVMAppCompatActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/app/AppLifecycleHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/app/AppLifecycleListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/app/Foreground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/app/LifeCycleDelegate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/app/VMApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/fork/NativeRuntime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/manager/KeepAliveManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/manager/PreferencesManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/manager/ServiceManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/model/Admob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/model/AppInfoResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/model/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/model/CountryResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/model/InfoDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/model/Key.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/network/BaseObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/network/CacheInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/network/DisposableManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/network/VMobileApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/network/VMobileClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/network/VMobileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/service/AdmobUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/service/AdsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/service/AdsShowActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/service/KeepAliveJobSchedulerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/service/UserPresentReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/service/WorkService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/service/androidO/AdsServiceO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/service/androidO/WorkServiceO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/task/FLowPoolTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/task/IOTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/task/PoolTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/task/RxJava2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/task/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/task/UITask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/utils/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/utils/LogUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/utils/NetworkUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/src/jack/com/servicekeep/utils/ServiceUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/adapter/ItemAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/adapter/ItemAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/base/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/base/BaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/handler/NotificationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/handler/NotificationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/model/Flashlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/model/Flashlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/CompassActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/CompassActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/SettingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/SettingActivity.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +113,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="d2bcfc69" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -31,27 +127,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+            <state relative-caret-position="442">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/base/BaseActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ads/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -59,163 +141,94 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>require_update</find>
+      <find>Rx</find>
+      <find>RxJava2CallAdapterFactory</find>
+      <find>com.flash.light.bright</find>
     </findStrings>
+    <replaceStrings>
+      <replace>com.quangda280296.flashlight</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\keban\Desktop\Flashlight\ads\src\jack\com\servicekeep</dir>
+      <dir>C:\Users\keban\Desktop\Flashlight</dir>
+    </dirStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\keban\Desktop\flashlight.jks" />
+    <option name="KEY_ALIAS" value="flashlight" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/SplashActivity.java" />
         <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/base/BaseActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/MainApplication.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/library/src/main/java/com/vmb/ads_in_app/util/FireAnaUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/CompassActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/base/BaseActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1396" />
-    <option name="y" value="194" />
-    <option name="width" value="1932" />
-    <option name="height" value="1045" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Flashlight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flashlight" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jack" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jack" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="servicekeep" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jack" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="servicekeep" type="462c0819:PsiDirectoryNode" />
-              <item name="act" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Flashlight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flashlight" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Flashlight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flashlight" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flashlight" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flashlight" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flashlight" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flashlight_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flashlight_2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flashlight" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="C:\Users\keban\Desktop\Flashlight\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\keban\Desktop\Flashlight\app" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -305,7 +318,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-5" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="1" />
@@ -321,8 +334,9 @@
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.18309858" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -331,22 +345,33 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Preview" order="6" weight="0.24413647" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.32995737" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Build Variants" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Logcat" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.18309858" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Fabric" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Preview" order="6" weight="0.24413647" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/SettingActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/Config.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -362,9 +387,57 @@
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/vmb/ads_in_app/util/FireAnaUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="38" column="75" selection-start-line="38" selection-start-column="75" selection-end-line="38" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ads/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ads/src/jack/com/servicekeep/task/RxJava2.java" />
+    <entry file="file://$PROJECT_DIR$/ads/src/jack/com/servicekeep/network/VMobileClient.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/SettingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/CompassActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-998">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/MainApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
+        <state relative-caret-position="-318">
           <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -374,43 +447,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/vmb/ads_in_app/util/FireAnaUtil.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="38" column="75" selection-start-line="38" selection-start-column="75" selection-end-line="38" selection-end-column="75" />
+        <state relative-caret-position="-488" />
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/service/NotificationIntentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/service/MyFirebaseMessagingService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="724" column="12" selection-start-line="724" selection-start-column="12" selection-end-line="724" selection-end-column="12" />
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/ui/SplashActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/service/MyFirebaseInstanceIDService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vmb/flashlight/base/BaseActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ads/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

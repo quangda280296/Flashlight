@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 
 import com.vmb.flashlight.base.holder.BaseViewHolder;
 
-import com.flash.light.bright.R;
+import com.quangda280296.flashlight.R;
 
 public class ItemAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 

@@ -7,7 +7,7 @@ import android.media.MediaPlayer;
 import android.os.Build;
 import android.text.TextUtils;
 
-import com.flash.light.bright.R;
+import com.quangda280296.flashlight.R;
 import com.vmb.ads_in_app.util.SharedPreferencesUtil;
 import com.vmb.flashlight.Config;
 

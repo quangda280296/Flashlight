@@ -1,6 +1,6 @@
 package com.vmb.flashlight;
 
-import com.flash.light.bright.BuildConfig;
+import com.quangda280296.flashlight.BuildConfig;
 
 public class Config {
     public static final String PACKAGE_NAME = BuildConfig.APPLICATION_ID;

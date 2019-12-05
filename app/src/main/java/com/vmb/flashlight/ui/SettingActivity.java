@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 import com.facebook.CallbackManager;
-import com.flash.light.bright.R;
+import com.quangda280296.flashlight.R;
 import com.rey.material.widget.Switch;
 import com.vmb.ads_in_app.Interface.IOnSendFeedback;
 import com.vmb.ads_in_app.handler.AdsHandler;

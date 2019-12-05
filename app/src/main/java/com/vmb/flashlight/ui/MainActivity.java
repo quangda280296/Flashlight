@@ -18,6 +18,7 @@ import android.os.Handler;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.content.ContextCompat;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -31,7 +32,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.facebook.CallbackManager;
-import com.flash.light.bright.R;
+import com.quangda280296.flashlight.R;
 import com.vmb.ads_in_app.Interface.IUpdateNewVersion;
 import com.vmb.ads_in_app.handler.AdsHandler;
 import com.vmb.ads_in_app.util.FireAnaUtil;
@@ -44,9 +45,7 @@ import com.vmb.flashlight.handler.FlashModeHandler;
 import com.vmb.flashlight.handler.NotificationHandler;
 import com.vmb.flashlight.model.Flashlight;
 
-import jack.com.servicekeep.act.BaseVMAppCompatActivity;
-
-public class MainActivity extends BaseVMAppCompatActivity
+public class MainActivity extends AppCompatActivity
         implements View.OnClickListener, SensorEventListener, IUpdateNewVersion {
     public CallbackManager callbackManager;
 

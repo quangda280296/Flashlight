@@ -10,7 +10,7 @@ import android.graphics.Color;
 import android.os.Build;
 import android.widget.RemoteViews;
 
-import com.flash.light.bright.R;
+import com.quangda280296.flashlight.R;
 import com.vmb.ads_in_app.util.SharedPreferencesUtil;
 import com.vmb.flashlight.Config;
 import com.vmb.flashlight.model.Flashlight;

@@ -6,19 +6,18 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.animation.Animation;
 import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
 
-import com.flash.light.bright.R;
+import com.quangda280296.flashlight.R;
 import com.vmb.ads_in_app.handler.AdsHandler;
 import com.vmb.ads_in_app.util.ToastUtil;
 import com.vmb.flashlight.handler.FlashModeHandler;
 
-import jack.com.servicekeep.act.BaseVMAppCompatActivity;
-
-public class CompassActivity extends BaseVMAppCompatActivity implements SensorEventListener {
+public class CompassActivity extends AppCompatActivity implements SensorEventListener {
 
     private ImageView img_compass;
 
