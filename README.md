@@ -4,7 +4,7 @@
 Ứng dụng mobile cho phép bật đèn pin trên điện thoại, độ sáng cao, nhiều chế độ tùy chỉnh. Ứng dụng có giao diện thân thiện, đẹp mắt, nhẹ, khởi động nhanh.
 
 ## Link app: 
-https://drive.google.com/open?id=14PxhS0TzxuZH9tqEZOHzEoKCa3WOYJPh
+[Demo](https://github.com/quangda280296/Flashlight/blob/master/app/release/app-release.apk)
 
 ## Screenshots
 ![]
